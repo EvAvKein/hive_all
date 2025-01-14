@@ -1,10 +1,11 @@
 # Hive Helsinki - My Overview
-A summary of my coding as part of the studies at 42-network's Hive Helsinki
+
+A summary of my programming experience as part of the studies at 42-network's Hive Helsinki
 
 ---
 
 ## Table of Contents
-- [General Guidelines](#general_guideliines)
+- [General Guidelines](#general-guidelines)
 - [Projects](#projects)
 
 ---
@@ -17,3 +18,10 @@ A summary of my coding as part of the studies at 42-network's Hive Helsinki
 
 ## Projects
 
+- [libft](https://github.com/EvAvKein/hive_libft): A library of utility functions for future projects.
+
+### Misc
+
+- [libft_full](https://github.com/EvAvKein/hive_libft_full): A combination of `libft`, `ft_printf`, and `get_next_line`.
+
+---
