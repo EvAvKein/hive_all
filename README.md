@@ -20,17 +20,18 @@ A summary of my programming experience as part of the studies at 42-network's Hi
 
 ## Projects
 
-| Name            | Topic                                                                  | Score |
-| --------------- | ---------------------------------------------------------------------- | ----- |
-| `libft`         | Utility functions library                                              | 125   |
-| `ft_printf`     | Variadic function for printing string templates with value conversions | 100   |
-| `get_next_line` | Buffer-based file reading - single line per function call              | 125   |
-| `born2beroot`   | VM (virtual machine) security & monitoring configuration               | 100   |
-| `push_swap`     | Sorting lists with a specific and limited set of operations            | 88    |
-| `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)        |       |
+| Link                                                 | Name            | Topic                                                                  | Grade |
+| ---------------------------------------------------- | --------------- | ---------------------------------------------------------------------- | ----- |
+| [📚](https://github.com/EvAvKein/hive_libft)         | `libft`         | Utility functions library                                              | 125   |
+| [🖨️](https://github.com/EvAvKein/hive_ft_printf)     | `ft_printf`     | Variadic function for printing string templates with value conversions | 100   |
+| [📏](https://github.com/EvAvKein/hive_get_next_line) | `get_next_line` | Buffer-based file reading - return single line per function call       | 125   |
+| 🚫                                                   | `born2beroot`   | VM (virtual machine) security & monitoring configurations              | 100   |
+| [🔃](https://github.com/EvAvKein/hive_push_swap)     | `push_swap`     | Sorting lists with a specific and limited set of operations            | 88    |
+| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)        |       |
 
-#### Extras
+#### Misc
 
-| Name         | Topic                                                     |
-| ------------ | --------------------------------------------------------- |
-| `libft_full` | Combination of `libft`, `ft_printf`, and `get_next_line`. |
+| Link                                                    | Name         | Topic                                                    |
+| ------------------------------------------------------- | ------------ | -------------------------------------------------------- |
+| [🧰]()                                                  | `libft_full` | Combination of `libft`, `ft_printf`, and `get_next_line` |
+| [👶](https://github.com/EvAvKein/hive_piscine_july2024) | `piscine`    | Simple code from Hive's 4-week selection process         |
