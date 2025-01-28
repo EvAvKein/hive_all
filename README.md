@@ -20,7 +20,7 @@ A summary of my programming experience as part of the studies at 42-network's Hi
 
 ## Projects
 
-| Link                                                 | Name            | Topic                                                                  | Grade   |
+| Link                                                 | Name            | Description                                                            | Grade   |
 | ---------------------------------------------------- | --------------- | ---------------------------------------------------------------------- | ------- |
 | [📚](https://github.com/EvAvKein/hive_libft)         | `libft`         | Utility functions library                                              | 125     |
 | [🖨️](https://github.com/EvAvKein/hive_ft_printf)     | `ft_printf`     | Variadic function for printing string templates with value conversions | 100     |
