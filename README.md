@@ -31,7 +31,7 @@ A summary of my programming experience as part of the studies at 42-network's Hi
 
 #### Misc
 
-| Link                                                    | Name         | Topic                                                    |
+| Link                                                    | Name         | Description                                              |
 | ------------------------------------------------------- | ------------ | -------------------------------------------------------- |
 | [🧰]()                                                  | `libft_full` | Combination of `libft`, `ft_printf`, and `get_next_line` |
 | [👶](https://github.com/EvAvKein/hive_piscine_july2024) | `piscine`    | Simple code from Hive's 4-week selection process         |
