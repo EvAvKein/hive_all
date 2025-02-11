@@ -1,6 +1,6 @@
 # Hive Helsinki - My Overview
 
-A summary of my programming experience as part of the studies at 42-network's Hive Helsinki
+A summary of my programming experience as part of the studies at 42-network's Hive Helsinki 🐝
 
 ---
 
@@ -13,8 +13,22 @@ A summary of my programming experience as part of the studies at 42-network's Hi
 
 ## General Guidelines
 
-- To finish a project, a student needs to pass multiple successful code reviews by peers. The evaluatee needs to be able to explain their code and "defend" why it's valid (if it is) - since students have varying levels of perfectionism and there's _some_ subjectivity to software engineering, we often defer to (and discuss) the wording of the assignment in evaluations.
-- For all projecting using the C programming language, we were required to follow the "Norm": A set of code style rules (e.g. no for loops or switch or ternary statements, maximum of 25 lines per function, maximum of 80 characters per line), linting rules (e.g. no unused library inclusions), and other guidelines (e.g. maximum of 5 variable declarations per function and 4 function parameters, no assignment in the same line as declaration except consts or statics)
+- To complete projects, students needs to pass code reviews by multiple peers. The evaluatee needs to be able to explain their code and its validity - since students have varying levels of perfectionism, we often defer to the restrictions imposed by assignment instructions (and the discuss implicit leeways).
+- For all projecting using the C programming language, students are required to follow the "Norm" - a set of code style and linting rules. Some of these rules can be validated with the "norminette" program and some are left for human evaluators.  
+
+  These Norm rules include, but are not limited to:
+  - No `for` loops, or `switch` statements, or ternary statements
+  - Variable names in snake_case - struct names start with `s_`, typedef names start with `t_`
+  - Variable declarations at the beginning of functions
+  - No assignment in declarations (except for `const`/`static`/`global` variables)
+  - Up to:
+    - 80 characters per line
+    - 25 lines per function
+    - 4 function parameters
+    - 5 variable declarations per function
+    - 5 functions per file
+  - No unused library inclusions
+  - No comments inside functions
 
 ---
 
