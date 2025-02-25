@@ -49,7 +49,7 @@ An overview of my programming experience as part of the studies at 42-network's 
 | 🚫                                                   | `born2beroot`   | VM (virtual machine) security & monitoring configurations              | 100     |
 | [🔃](https://github.com/EvAvKein/hive_push_swap)     | `push_swap`     | Sorting lists with a specific and limited set of operations            | 125     |
 | [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)        | 125     |
-| [➡️](https://github.com/EvAvKein/hive_pipex)          | `pipex`         | Replicating shell's piping and redirection using child processes       | ⏳      |
+| [➡️](https://github.com/EvAvKein/hive_pipex)          | `pipex`         | Replicating shell's piping and redirection using child processes       | 125     |
 <!-- | [⏳](https://github.com/EvAvKein/hive_[NAME])   | `[NAME]`        | [DESCRIPTION]                                                          | ⏳      | -->
 
 #### Misc
