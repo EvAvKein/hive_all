@@ -34,22 +34,23 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 <!-- #### Highlights
 
-| Link                                                 | Name            | Description                                                            | Grade   |
-| ---------------------------------------------------- | --------------- | ---------------------------------------------------------------------- | ------- |
-| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)        | 125     |
-| [🧰](https://github.com/EvAvKein/hive_libft_full)    | `libft_full`    | Upgraded combination of `libft`, `ft_printf`, and `get_next_line`      | N/A     | -->
+| Link                                                 | Name            | Description                                                                 | Grade   |
+| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ------- |
+| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)             | 125     |
+| [🧰](https://github.com/EvAvKein/hive_libft_full)    | `libft_full`    | Upgraded combination of `libft`, `ft_printf`, and `get_next_line`           | N/A     | -->
 
 ## Projects
 
-| Link                                                 | Name            | Description                                                            | Grade   |
-| ---------------------------------------------------- | --------------- | ---------------------------------------------------------------------- | ------- |
-| [📚](https://github.com/EvAvKein/hive_libft)         | `libft`         | Utility functions library                                              | 125     |
-| [🖨️](https://github.com/EvAvKein/hive_ft_printf)     | `ft_printf`     | Variadic function for printing string templates with value conversions | 100     |
-| [📏](https://github.com/EvAvKein/hive_get_next_line) | `get_next_line` | Buffer-based file reading - return single line per function call       | 125     |
-| 🚫                                                   | `born2beroot`   | VM (virtual machine) security & monitoring configurations              | 100     |
-| [🔃](https://github.com/EvAvKein/hive_push_swap)     | `push_swap`     | Sorting lists with a specific and limited set of operations            | 125     |
-| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)        | 125     |
-| [➡️](https://github.com/EvAvKein/hive_pipex)          | `pipex`         | Replicating shell's piping and redirection using child processes       | 125     |
+| Link                                                 | Name            | Description                                                                 | Grade   |
+| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ------- |
+| [📚](https://github.com/EvAvKein/hive_libft)         | `libft`         | Utility functions library                                                   | 125     |
+| [🖨️](https://github.com/EvAvKein/hive_ft_printf)     | `ft_printf`     | Variadic function for printing string templates with value conversions      | 100     |
+| [📏](https://github.com/EvAvKein/hive_get_next_line) | `get_next_line` | Buffer-based file reading - return single line per function call            | 125     |
+| 🚫                                                   | `born2beroot`   | VM (virtual machine) security & monitoring configurations                   | 100     |
+| [🔃](https://github.com/EvAvKein/hive_push_swap)     | `push_swap`     | Sorting lists with a specific and limited set of operations                 | 125     |
+| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)             | 125     |
+| [➡️](https://github.com/EvAvKein/hive_pipex)          | `pipex`         | Replicating shell's piping and redirection using child processes            | 125     |
+| [🍝](https://github.com/EvAvKein/hive_philosophers)  | `philosophers`  | Simulating the Dining Philosophers problem with multi-threading and mutexes | ⏳      |
 <!-- | [⏳](https://github.com/EvAvKein/hive_[NAME])   | `[NAME]`        | [DESCRIPTION]                                                          | ⏳      | -->
 
 #### Misc
