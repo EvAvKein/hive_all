@@ -57,5 +57,5 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 | Link                                                    | Name         | Description                                              |
 | ------------------------------------------------------- | ------------ | -------------------------------------------------------- |
-| [🧰](https://github.com/EvAvKein/hive_libft_plus)       | `libft_plus` | Combination of `libft`, `ft_printf`, and `get_next_line` |
+| [🧰](https://github.com/EvAvKein/hive_libft_plus)       | `libft_plus` | My complete utility library for studies at Hive Helsinki |
 | [👶](https://github.com/EvAvKein/hive_piscine_july2024) | `piscine`    | Simple code from Hive's 4-week selection process         |
