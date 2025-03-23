@@ -13,22 +13,21 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 ## General Guidelines
 
-- To complete projects, students needs to pass code reviews by multiple peers. The evaluatee needs to be able to explain their code and its validity - since students have varying levels of perfectionism, we often defer to the restrictions imposed by assignment instructions (and the discuss implicit leeways).
-- For all projecting using the C programming language, students are required to follow the "Norm" - a set of code style and linting rules. Some of these rules can be validated with the "norminette" program and some are left for human evaluators.  
+- To complete projects, students needs to pass code reviews by multiple peers. The evaluatee needs to be able to explain their code and its validity - since students have varying levels of perfectionism, we often defer to the restrictions imposed by assignment instructions (and the discuss any implicit leeways).
+- For all projects using the C programming language, students are required to follow the "Norme" - a set of code style and linting rules. Some of these can be validated with the "norminette" program and some are left for human review.  
 
-  These Norm rules include, but are not limited to:
+  These Norme rules include, but are not limited to:
+  - No comments inside functions
   - No `for` loops, or `switch` statements, or ternary statements
   - Variable names in snake_case - struct names start with `s_`, typedef names start with `t_`
-  - Variable declarations at the beginning of functions
-  - No assignment in declarations (except for `const`/`static`/`global` variables)
+  - Variable declarations at the beginning of functions, single declaration per line
+  - No assignments in declarations (except for `const`/`static`/`global` variables)
   - Up to:
     - 80 characters per line
     - 25 lines per function
     - 4 function parameters
     - 5 variable declarations per function
     - 5 functions per file
-  - No unused library inclusions
-  - No comments inside functions
 
 ---
 
