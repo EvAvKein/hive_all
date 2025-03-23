@@ -40,17 +40,17 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 ## Projects
 
-| Link                                                 | Name            | Description                                                                 | Grade      |
-| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ---------- |
-| [📚](https://github.com/EvAvKein/hive_libft)         | `libft`         | Utility functions library                                                   | 125        |
-| [🖨️](https://github.com/EvAvKein/hive_ft_printf)     | `ft_printf`     | Variadic function for printing string templates with value conversions      | 100        |
-| [📏](https://github.com/EvAvKein/hive_get_next_line) | `get_next_line` | Buffer-based file reading - return single line per function call            | 125        |
-| 🚫                                                   | `born2beroot`   | Virtual machine security & monitoring configurations                        | 100        |
-| [🔃](https://github.com/EvAvKein/hive_push_swap)     | `push_swap`     | Sorting lists with a specific and limited set of operations                 | 125 (🏅x3) |
-| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)             | 125 (🏅x1) |
-| [➡️](https://github.com/EvAvKein/hive_pipex)         | `pipex`         | Replicating shell's piping and redirection using child processes            | 125 (🏅x2) |
-| [🍝](https://github.com/EvAvKein/hive_philosophers)  | `philosophers`  | Simulating the Dining Philosophers problem with multi-threading and mutexes | 100 (🏅x1) |
-<!-- | [⏳](https://github.com/EvAvKein/hive_[NAME])   | `[NAME]`        | [DESCRIPTION]                                                          | ⏳      | -->
+| Link                                                 | Name            | Description                                                                 | Grade            |
+| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ---------------- |
+| [📚](https://github.com/EvAvKein/hive_libft)         | `libft`         | Utility functions library                                                   | 125              |
+| [🖨️](https://github.com/EvAvKein/hive_ft_printf)     | `ft_printf`     | Variadic function for printing string templates with value conversions      | 100              |
+| [📏](https://github.com/EvAvKein/hive_get_next_line) | `get_next_line` | Buffer-based file reading - return single line per function call            | 125              |
+| 🚫                                                   | `born2beroot`   | Virtual machine security & monitoring configurations                        | 100              |
+| [🔃](https://github.com/EvAvKein/hive_push_swap)     | `push_swap`     | Sorting lists with a specific and limited set of operations                 | 125 <br/> (🏅x3) |
+| [🕹️](https://github.com/EvAvKein/hive_so_long)       | `so_long`       | Simple 2D game using minimal windowing/graphics library (MLX42)             | 125 <br/> (🏅x1) |
+| [➡️](https://github.com/EvAvKein/hive_pipex)         | `pipex`         | Replicating shell's piping and redirection using child processes            | 125 <br/> (🏅x2) |
+| [🍝](https://github.com/EvAvKein/hive_philosophers)  | `philosophers`  | Simulating the Dining Philosophers problem with multi-threading and mutexes | 100 <br/> (🏅x1) |
+<!-- | [⏳](https://github.com/EvAvKein/hive_[NAME])   | `[NAME]`        | [DESCRIPTION]                                                               | ⏳               | -->
 <sub>(🏅 medal means "Outstanding project" award from a code reviewer)</sub>
 
 #### Misc
