@@ -23,11 +23,11 @@ These Norme rules include, but are not limited to:
   - Variable declarations at the beginning of functions, single declaration per line
   - No assignments in declarations (except for `const`/`static`/`global` variables)
   - Up to:
-  - 80 characters per line
-  - 25 lines per function
-  - 4 function parameters
-  - 5 variable declarations per function
-  - 5 functions per file
+    - 80 characters per line
+    - 25 lines per function
+    - 4 function parameters
+    - 5 variable declarations per function
+    - 5 functions per file
 
 ---
 
