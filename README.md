@@ -7,22 +7,22 @@ An overview of my programming experience as part of the studies at 42-network's 
 ## Table of Contents
 
 
-- [General Guidelines](#general-guidelines)
+- [Project Guidelines](#project-guidelines)
 <!-- - [Highlights](#highlights) -->
 - [Projects](#projects)
 
 ---
 
-## General Guidelines
+## Project Guidelines
 
-- To complete projects, students needs to pass code reviews by multiple peers. The evaluatee needs to be able to explain their code and its validity - since students have varying levels of perfectionism, we often defer to the restrictions imposed by assignment instructions (and discuss any implicit leeways).
-- For all projects using the C programming language, students are required to follow the "Norm" - a set of code style and linting rules. Some of these can be validated with the "norminette" program and some are left for human review.  
+- To complete projects, students needs to pass code reviews from multiple peers. The evaluatee needs to be able to explain their code and its validity - since students have varying levels of perfectionism, we often defer to the restrictions imposed by assignment instructions (and discuss any implicit leeways).
+- __For all projects using the C programming language__, students are required to follow the "Norm" - a set of code style and linting rules. Some of these can be validated with the "norminette" program and some are left for human review.
 These Norme rules include, but are not limited to:
-- No comments inside functions
-- No `for` loops, or `switch` statements, or ternary statements
-- Variable declarations at the beginning of functions, single declaration per line
-- No assignments in declarations (except for `const`/`static`/`global` variables)
-- Up to:
+  - No comments inside functions
+  - No `for` loops, or `switch` statements, or ternary statements
+  - Variable declarations at the beginning of functions, single declaration per line
+  - No assignments in declarations (except for `const`/`static`/`global` variables)
+  - Up to:
   - 80 characters per line
   - 25 lines per function
   - 4 function parameters
@@ -35,8 +35,9 @@ These Norme rules include, but are not limited to:
 
 |    | Name                                                        | Description                                                                 | Grade   |
 | -- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------- |
-| 🕹️ | [`so_long`](https://github.com/EvAvKein/hive_so_long)       | Simple 2D game using a minimal windowing/graphics library (MLX42)             | 125     |
+| 🕹️ | [`so_long`](https://github.com/EvAvKein/hive_so_long)       | Simple 2D game using a minimal windowing/graphics library (MLX42)           | 125     |
 | 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)   | An interactive shell: Command-line interpreter and executioner!             | 101     |
+| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)         | Simulating rays of light to render beautiful interactive scenes             | ⏳      |
 
 ---
 
@@ -54,12 +55,15 @@ These Norme rules include, but are not limited to:
 | 🕹️ | [`so_long`](https://github.com/EvAvKein/hive_so_long)             | Simple 2D game using a minimal windowing/graphics library (MLX42)           | 125   |
 | ➡️ | [`pipex`](https://github.com/EvAvKein/hive_pipex)                 | Replicating shell's piping and redirection using child processes            | 125   |
 | 🍝 | [`philosophers`](https://github.com/EvAvKein/hive_philosophers)   | Simulating the Dining Philosophers problem with multi-threading and mutexes | 100   |
-| 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)         | An interactive shell: Command-line interpreter and executioner!             | 101   |
+| 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)         | An interactive shell: Command-line interpreter and executioner              | 101   |
+| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes             | ⏳    |
+| 🧑‍🏫 | [`cpp modules`](https://github.com/EvAvKein/hive_cpp_modules)     | Introductions to C++                                                        | ⏳    |
 <!-- | ⏳ | [`[NAME]`](https://github.com/EvAvKein/hive_[NAME])          | [DESCRIPTION]                                                               | ⏳    | -->
 
 #### Misc
 
 |    | Name                                                           | Description                                                   |
 | -- | -------------------------------------------------------------- | ------------------------------------------------------------- |
+| 🌍 | [`planet guardian`](https://github.com/EvAvKein/planet_guardian) | Game-jam "Best Gameplay" winner - protect the planet from asteroids and temperature! |
 | 🧰 | [`libft_plus`](https://github.com/EvAvKein/hive_libft_plus)    | My complete utility library for C projects at Hive Helsinki   |
 | 👶 | [`piscine`](https://github.com/EvAvKein/hive_piscine_july2024) | My code from the intensive 4-week selection process into Hive |
