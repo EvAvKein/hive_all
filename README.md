@@ -56,7 +56,7 @@ These Norme rules include, but are not limited to:
 | ➡️ | [`pipex`](https://github.com/EvAvKein/hive_pipex)                 | Replicating shell's piping and redirection using child processes            | 125   |
 | 🍝 | [`philosophers`](https://github.com/EvAvKein/hive_philosophers)   | Simulating the Dining Philosophers problem with multi-threading and mutexes | 100   |
 | 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)         | An interactive shell: Command-line interpreter and executioner              | 101   |
-| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes             | ⏳    |
+| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes             | 125   |
 | 🧑‍🏫 | [`cpp modules`](https://github.com/EvAvKein/hive_cpp_modules)     | Introductions to C++                                                        | ⏳    |
 <!-- | ⏳ | [`[NAME]`](https://github.com/EvAvKein/hive_[NAME])          | [DESCRIPTION]                                                               | ⏳    | -->
 
