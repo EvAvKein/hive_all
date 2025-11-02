@@ -8,7 +8,7 @@ An overview of my programming experience from my studies at Hive Helsinki 🐝
 
 
 - [Project Guidelines](#project-guidelines)
-<!-- - [Highlights](#highlights) -->
+- [Highlights](#highlights)
 - [Projects](#projects)
 
 ---
@@ -31,17 +31,15 @@ These Norme rules include, but are not limited to:
 
 ---
 
-<!-- ## Highlights
+## Highlights
 
-|    | Name                                                        | Description                                                                 | Grade   |
-| -- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------- |
-| 🕹️ | [`so_long`](https://github.com/EvAvKein/hive_so_long)       | Simple 2D game using a minimal windowing/graphics library (MLX42)           | 125     |
-| 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)   | An interactive shell: Command-line interpreter and executioner!             | 101     |
-| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)         | Simulating rays of light to render beautiful interactive scenes             | ⏳      |
+|    | Name                                                             | Description                                                                          | Grade |
+| -- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----- |
+| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)              | Simulating rays of light to render beautiful interactive scenes - ray-tracing!       | 125   |
+| 🌍 | [`planet guardian`](https://github.com/EvAvKein/planet_guardian) | Game-jam "Best Gameplay" winner - protect the planet from asteroids and temperature! | N/A   | 
+| 📡 | [`ft_irc`](https://github.com/EvAvKein/hive_ft_irc)              | An IRC (Internet Relay Chat) server implemented in C++                               | 125   |
 
----
 
--->
 
 ## Projects
 
