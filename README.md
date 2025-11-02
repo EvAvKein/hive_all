@@ -58,6 +58,7 @@ These Norme rules include, but are not limited to:
 | 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)         | An interactive shell: Command-line interpreter and executioner              | 101   |
 | 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes             | 125   |
 | 🧑‍🏫 | [`cpp modules`](https://github.com/EvAvKein/hive_cpp_modules)     | Introductions to C++                                                        | ⏳    |
+| 📡 | [`ft_irc`](https://github.com/EvAvKein/hive_ft_irc)               | An IRC (Internet Relay Chat) server implemented in C++                      | 125   |
 <!-- | ⏳ | [`[NAME]`](https://github.com/EvAvKein/hive_[NAME])          | [DESCRIPTION]                                                               | ⏳    | -->
 
 #### Misc
