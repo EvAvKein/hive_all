@@ -1,6 +1,6 @@
 # Hive Helsinki - My Overview
 
-An overview of my programming experience as part of the studies at 42-network's Hive Helsinki 🐝
+An overview of my programming experience from my studies at Hive Helsinki 🐝
 
 ---
 
