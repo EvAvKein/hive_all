@@ -51,12 +51,13 @@ These Norme rules include, but are not limited to:
 | 🚫 | `born2beroot`                                                     | Virtual machine security & monitoring configurations                        | 100   |
 | 🔃 | [`push_swap`](https://github.com/EvAvKein/hive_push_swap)         | Sorting lists with a specific and limited set of operations                 | 125   |
 | 🕹️ | [`so_long`](https://github.com/EvAvKein/hive_so_long)             | Simple 2D game using a minimal windowing/graphics library (MLX42)           | 125   |
-| ➡️ | [`pipex`](https://github.com/EvAvKein/hive_pipex)                 | Replicating shell's piping and redirection using child processes            | 125   |
+| ➡️ | [`pipex`](https://github.com/EvAvKein/hive_pipex)                  | Replicating shell's piping and redirection using child processes            | 125   |
 | 🍝 | [`philosophers`](https://github.com/EvAvKein/hive_philosophers)   | Simulating the Dining Philosophers problem with multi-threading and mutexes | 100   |
 | 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)         | An interactive shell: Command-line interpreter and executioner              | 101   |
 | 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes             | 125   |
-| 🧑‍🏫 | [`cpp modules`](https://github.com/EvAvKein/hive_cpp_modules)     | Introductions to C++                                                        | ⏳    |
+| 🧑‍🏫 | [`cpp modules`](https://github.com/EvAvKein/hive_cpp_modules)     | Introductions to C++                                                        | 96    |
 | 📡 | [`ft_irc`](https://github.com/EvAvKein/hive_ft_irc)               | An IRC (Internet Relay Chat) server implemented in C++                      | 125   |
+| 🚢 | [`Inception`](https://github.com/EvAvKein/hive_inception)         | Dockerized deployment of WordPress plus services                            | 100   |
 <!-- | ⏳ | [`[NAME]`](https://github.com/EvAvKein/hive_[NAME])          | [DESCRIPTION]                                                               | ⏳    | -->
 
 #### Misc
