@@ -36,7 +36,7 @@ These Norme rules include, but are not limited to:
 |    | Name                                                             | Description                                                                          
 | -- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ 
 | 📝 | [`DiffEd`](https://github.com/EvAvKein/DiffEd)                   | A real-time collaborative code editor, with Git-like edit views, on the web 
-| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)              | Simulating rays of light to render beautiful interactive scenes - ray-tracing!       
+| ☀️ | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)              | Simulating rays of light to render beautiful interactive scenes - ray-tracing!       
 | 🌍 | [`planet guardian`](https://github.com/EvAvKein/planet_guardian) | Game-jam "Best Gameplay" winner - protect the planet from asteroids and temperature! 
 | 📡 | [`ft_irc`](https://github.com/EvAvKein/hive_ft_irc)              | An IRC (Internet Relay Chat) server implemented in C++                               
 
@@ -55,7 +55,7 @@ These Norme rules include, but are not limited to:
 | ➡️ | [`pipex`](https://github.com/EvAvKein/hive_pipex)                 | Replicating shell's piping and redirection using child processes                    | 125   |
 | 🍝 | [`philosophers`](https://github.com/EvAvKein/hive_philosophers)   | Simulating the Dining Philosophers problem with multi-threading and mutexes         | 100   |
 | 🐚 | [`minishell`](https://github.com/EvAvKein/hive_minishell)         | An interactive shell: Command-line interpreter and executioner                      | 101   |
-| 💡 | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes                     | 125   |
+| ☀️ | [`miniRT`](https://github.com/EvAvKein/hive_miniRT)               | Simulating rays of light to render beautiful interactive scenes                     | 125   |
 | 🔧 | `netpractice`                                                     | Playing a timed puzzle game to demonstrate IPv4 network management skills           | 100   |
 | 🧑‍🏫 | [`cpp modules`](https://github.com/EvAvKein/hive_cpp_modules)     | Introductions to C++                                                                | 96    |
 | 📡 | [`ft_irc`](https://github.com/EvAvKein/hive_ft_irc)               | An IRC (Internet Relay Chat) server implemented in C++                              | 125   |
